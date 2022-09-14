@@ -1,2 +1,13 @@
 # Argus-anticheat-for-minecraft-1.7.10-by-Yannoxware
- Hello, My name is Yannox aka Y4nN0xX at Yannoxware , a developpement game company. The source code of a part of my anticheat, private and stolen by the person submited the complain , after this person infected my pc he dumped the source code claiming its is source code , i dev all the code and make it public to avoid selling it and scamming people under my back and remember that it's my code and that he got it in an unauthorized way saying it's his All code was stolen by this person and is for public after my release All code in Y4nN0xX/Argus-Anticheat-minecraft-1.7.10-Paladium repository repository is public and created by me We thank you for taking the necessary measures on your side concerning the reupload of the deposit in question as well as a banishment of the person who opened a dmca moreover a complaint will be filed with github for abusive deletion my lawyer and the police will take care to recover the identity of the person who asked to delete my code
+
+
+That my private anticheat for minecraft 1.7.10 argus aka feurgus are the best anticheat of 2022 100% codded on java and by me you can slap all cheaters on your server and win vs cheaters 
+
+
+note for europeans this anticheat violates the rules of the rgpd/rgpd and the cnil use it at your own risk
+
+https://lexlau.com/2018/06/30/rgpd/
+
+https://www.cnil.fr/fr/comprendre-le-rgpd
+
+https://www.cnil.fr/fr
